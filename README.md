@@ -7,3 +7,5 @@ Integrated circuit design
 - https://openlane2.readthedocs.io/en/latest/
 - https://www.tsmc.com/english/dedicatedFoundry/grandAlliance
 - https://newsroom.intel.com/client-computing/intel-unveils-panther-lake-architecture-first-ai-pc-platform-built-on-18a
+- https://www.businessweekly.co.uk/posts/40-years-of-the-arm-chip-from-cambridge-to-the-world
+- 
