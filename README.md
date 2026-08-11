@@ -12,3 +12,4 @@ Integrated circuit design
 ## Task 
 - https://sky130-unofficial.readthedocs.io/en/latest/contents/libraries/sky130_fd_sc_hd/cells/dfrtp/README.html
 - https://sky130-unofficial.readthedocs.io/en/latest/contents/libraries/sky130_fd_sc_hd/cells/inv/README.html
+- https://github.com/google/skywater-pdk-libs-sky130_fd_sc_hd
